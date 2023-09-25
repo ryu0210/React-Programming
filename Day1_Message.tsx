@@ -8,4 +8,4 @@ function Day1_Message() {
     return <h1>Hello World!</h1>;
 }
 
-export default Day1_Message
+export default Day1_Message;

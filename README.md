@@ -16,7 +16,7 @@ How to run react .app file
 
 Use this on your App.tsx file
 
-import Main_Function from './FileName';
+import Main_Function from './FileName'; // Main Function can be found in Export Default
 
 import React from "react";
 
